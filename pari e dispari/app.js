@@ -47,4 +47,3 @@ if ((askUser == "pari" || askUser == "dispari") && (numberUser >= 1 && numberUse
     alert("non hai inserito i giusti valori: Pari o Dispari ed un numero da 1 a 5");
 }
 
-
